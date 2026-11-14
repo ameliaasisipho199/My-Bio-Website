@@ -22,7 +22,7 @@ I created this website as a way to express my personality, share my journey and 
 
 * HTML5
 * CSS3
-* Pyhton
+* Python
 
 📁 Repository Structure
 
@@ -51,7 +51,5 @@ To view the website:
 📬 Connect With Me
 
 GitHub: My GitHub Profile
-
-⸻
 
 Thank you for visiting my repository! I’m continuously learning, building and growing as a future software developer. 💻
